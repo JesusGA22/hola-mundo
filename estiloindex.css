@@ -1,0 +1,33 @@
+body{
+    font-size: xx-large;
+}
+
+.nav-link{
+    color:black;
+}
+h2{
+    color: blanchedalmond;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 10;
+    margin-top: 100px;
+}
+#centro{
+    margin: auto;
+}
+#fondo{
+    position: relative;
+    z-index: 6;
+}
+.btn {
+    font-size: xx-large;
+    margin: 15px;
+}
+
