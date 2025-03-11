@@ -507,7 +507,7 @@ img {
 
 .fireflies {
 	inset: 0;
-	z-index: 1000;
+	z-index: 10;
 }
 
 .firefly {
